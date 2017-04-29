@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/43692115/spring-boot-running-data-sql-before-creating-entities-in-presence-of-schema-sql
